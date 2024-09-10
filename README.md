@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anaruizg99
+- 👋 Hi, My name is Ana
 - 👀 I’m interested in Software Engineering and exploring the FinTech Industry!
 - 🌱 I’m currently learning HTML and Java
 - 📫 How to reach me: email me! - ruizgalv@usc.edu
